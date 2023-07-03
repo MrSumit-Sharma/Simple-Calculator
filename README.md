@@ -1,1 +1,1 @@
-# Simple-Calculator
+Simple calculator creating using html & css
